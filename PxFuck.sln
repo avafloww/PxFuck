@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PxFuck.Cli", "PxFuck.Cli\PxFuck.Cli.csproj", "{7E880D20-9629-4839-A398-6F188E83B8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PxFuck.Pixelflut", "PxFuck.Pixelflut\PxFuck.Pixelflut.csproj", "{0915B401-863A-4F6B-A8B1-4CFFA65B577B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PxFuck.Pixelflut.Stream", "PxFuck.Pixelflut.Stream\PxFuck.Pixelflut.Stream.csproj", "{7626833E-87C6-4CFD-9322-B99259D37F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E880D20-9629-4839-A398-6F188E83B8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E880D20-9629-4839-A398-6F188E83B8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E880D20-9629-4839-A398-6F188E83B8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E880D20-9629-4839-A398-6F188E83B8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0915B401-863A-4F6B-A8B1-4CFFA65B577B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0915B401-863A-4F6B-A8B1-4CFFA65B577B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0915B401-863A-4F6B-A8B1-4CFFA65B577B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0915B401-863A-4F6B-A8B1-4CFFA65B577B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7626833E-87C6-4CFD-9322-B99259D37F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7626833E-87C6-4CFD-9322-B99259D37F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7626833E-87C6-4CFD-9322-B99259D37F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7626833E-87C6-4CFD-9322-B99259D37F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
